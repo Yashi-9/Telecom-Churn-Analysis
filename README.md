@@ -1,21 +1,21 @@
 # Telecom-Churn-Analysis
-### Business Analytics Project (Power BI)
+## Business Analytics Project (Power BI)
 Dataset Info: Sample Data Set containing unbalanced Telco customer data and showing customers who left last month.
 
 - What is Customer Churning ?
 
 Customer churn (or customer attrition) refers to the loss of customers or subscribers for any reason at all.It is an industry-wide problem and a major contributor to EBITDA margin. 
 A churned consumer boosts the market share of competitors and generates little to no money. If a customer leaves for a competitor, the service provider's acquisition costs would go up and purchasing a new customer cost a service provider much more than keeping an existing one.Therefore it is important to manage and learn about the reasons a customer might be churning.
-### Introduction
+## Introduction
 
 Customer churn is a critical challenge for businesses striving for long-term growth. This report analyzes churn patterns, identifies key risk factors, and presents strategic recommendations. The goal is to provide actionable insights for the Marketing and Customer Helpline teams to enhance customer retention.
 
-### Data Cleaning
+## Data Cleaning
 1. Create a copy of base data.
 2. There are some missing values in TotalCharges column however it is <1% compared to total dataset therefore it is safe to ignore them from further processing.
 3. Grouped the tenure into bins of 12 months.
 
-### Data Exploration
+## Data Exploration
 
 1. General Trends:
 
@@ -46,9 +46,9 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Tree map analysis indicates that most unsubscribed customers used both phone and internet services. Those who only used internet services relied primarily on DSL as their medium.
 
-### Recommendations
+## Recommendations
 
-# 1. Data-Driven Retention Strategy
+### 1. Data-Driven Retention Strategy
 
 1.1. High-risk customers (month-to-month contracts, high monthly charges, short tenure):
 
@@ -60,7 +60,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Incentivize them to switch to auto-pay options (credit card, direct bank transfers) with small discounts or exclusive perks.
 
-# 2. Improving Customer Experience
+### 2. Improving Customer Experience
 
 2.1.Enhancing Customer Support & Proactive Interventions:
 
@@ -76,7 +76,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Develop alternative internet solutions (e.g., fixed wireless, satellite) for customers reluctant to bundle phone services.
 
-# 3. Customer Loyalty & Engagement Programs
+### 3. Customer Loyalty & Engagement Programs
 
 3.1. Strengthening Long-Term Customer Relationships:
 
@@ -86,7 +86,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Provide an Exclusive Support Line for customers with long-term contracts, enhancing service value.
 
-# 4. Monitoring & Continuous Improvement
+### 4. Monitoring & Continuous Improvement
 
 4.1. Regularly Track & Analyze Churn Trends:
 
@@ -96,7 +96,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Conduct customer surveys to gather feedback and adjust retention strategies accordingly.
 
-# Final Thought
+## Final Thought
 By leveraging data analytics, proactive retention strategies, and improved customer engagement, businesses can significantly reduce churn and drive long-term growth. Implementing these solutions ensures that at-risk customers receive timely interventions while fostering loyalty among long-term subscribers.
 
 
