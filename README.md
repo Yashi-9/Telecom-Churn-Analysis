@@ -19,7 +19,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 1. General Trends:
 
-Higher Monthly Charges, Lower Tenure, Lower Total Charges, Electronic checks, No Online security, No Tech Support category and Fibre Optics Internet service are strongly linked to high churn.
+Higher Monthly Charges, Lower Tenure, Lower Total Charges,  No Online security, No Tech Support category also customers who opt for  Fibre Optics Internet service and Electronic checks are strongly linked to high churn.
 
 2.Contract & Tenure Impact on Churn:
 
