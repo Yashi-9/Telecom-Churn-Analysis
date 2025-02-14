@@ -45,3 +45,15 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 
 - Tree map analysis indicates that most unsubscribed customers used both phone and internet services. Those who only used internet services relied primarily on DSL as their medium.
+
+### Recommendations
+
+1. Targeted Marketing Campaigns:
+
+- High-risk customers (month-to-month contracts, high monthly charges, short tenure):
+
+- Offer contract discounts and loyalty rewards for shifting to long-term plans.
+
+- Provide personalized service recommendations (e.g., tech support, online security) based on missing features in their subscription.
+
+- Customers using electronic checks:Incentivize them to switch to auto-pay options (credit card, direct bank transfers) with small discounts or exclusive perks.
