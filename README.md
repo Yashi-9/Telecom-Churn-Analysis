@@ -6,6 +6,9 @@ What is Customer Churning ?
 
 Customer churn (or customer attrition) refers to the loss of customers or subscribers for any reason at all.It is an industry-wide problem and a major contributor to EBITDA margin. 
 A churned consumer boosts the market share of competitors and generates little to no money. If a customer leaves for a competitor, the service provider's acquisition costs would go up and purchasing a new customer cost a service provider much more than keeping an existing one.Therefore it is important to manage and learn about the reasons a customer might be churning.
+### Introduction
+
+Customer churn is a critical challenge for businesses striving for long-term growth. This report analyzes churn patterns, identifies key risk factors, and presents strategic recommendations. The goal is to provide actionable insights for the Marketing and Customer Helpline teams to enhance customer retention.
 
 ### Data Cleaning
 1. Create a copy of base data.
