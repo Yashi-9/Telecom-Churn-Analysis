@@ -100,5 +100,8 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 By leveraging data analytics, proactive retention strategies, and improved customer engagement, businesses can significantly reduce churn and drive long-term growth. Implementing these solutions ensures that at-risk customers receive timely interventions while fostering loyalty among long-term subscribers.
 
 
+## Feel free to explore the project and share your feedback!
+
+
 
 
