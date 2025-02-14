@@ -19,7 +19,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 1. General Trends:
 
-Higher Monthly Charges, Lower Tenure, Lower Total Charges,  No Online security, No Tech Support category also customers who opt for  Fibre Optics Internet service and Electronic checks are strongly linked to high churn.
+ Higher Monthly Charges,  Lower Tenure,  Lower Total Charges,   No Online security,  No Tech Support category , customers who opt for  Fibre Optics Internet service and Electronic checks are strongly linked to high churn.
 
 2.Contract & Tenure Impact on Churn:
 
@@ -41,7 +41,7 @@ Higher Monthly Charges, Lower Tenure, Lower Total Charges,  No Online security, 
 
 - Fibre Optics Internet service, despite being the most popular and generating the highest total charges, also experiences high churn rates.
 
-- Customers using Fibre Optics Internet service and electronic check payment methods despite being the most popular and generating the highest total charges, also experiences high churn rates.
+- Customers using electronic check payment methods also experiences high churn rates.
 
 
 - Tree map analysis indicates that most unsubscribed customers used both phone and internet services. Those who only used internet services relied primarily on DSL as their medium.
