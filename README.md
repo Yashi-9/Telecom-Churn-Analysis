@@ -35,7 +35,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 - Gender has no significant impact on churn.
 
-3. Service & Billing Factors
+4. Service & Billing Factors
 
 - Customers who lack online security, tech support, online backup, and device protection, and those who opt for paperless billing, exhibit higher churn rates.
 
