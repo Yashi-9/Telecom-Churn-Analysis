@@ -48,14 +48,18 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 ### Recommendations
 
-1. Targeted Marketing Campaigns:
+1. Data-Driven Retention Strategy:
+      1.1 Targeted Marketing Campaigns:
+ - - High-risk customers (month-to-month contracts, high monthly charges, short tenure):
+ - - Offer contract discounts and loyalty rewards for shifting to long-term plan.
+- -Provide personalized service recommendations (e.g., tech support, online security) based on missing features in their subscription.
 
-1.1 High-risk customers (month-to-month contracts, high monthly charges, short tenure):
-
-- Offer contract discounts and loyalty rewards for shifting to long-term plans.
-
-- Provide personalized service recommendations (e.g., tech support, online security) based on missing features in their subscription.
-
-1.2 Customers using electronic checks:
+  1.2 Customers using electronic checks:
 
 - Incentivize them to switch to auto-pay options (credit card, direct bank transfers) with small discounts or exclusive perks.
+
+   3. Improving Customer Experience
+   4.  Customer Loyalty & Engagement Programs
+ 
+
+
