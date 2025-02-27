@@ -1,6 +1,5 @@
-# Telecom-Churn-Analysis
-## Business Analytics Project (Power BI)
-Dataset Info: Sample Data Set containing unbalanced Telco customer data and showing customers who left last month.
+# Telecom-Churn-Analysis | (Power BI)
+#### Dataset Info: Sample Data Set containing unbalanced Telco customer data and showing customers who left last month.
 
 - What is Customer Churning ?
 
