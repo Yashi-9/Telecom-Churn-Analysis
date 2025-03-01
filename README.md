@@ -1,4 +1,4 @@
-# Telecom-Churn-Analysis | (Power BI)
+# Telecom Customer Retention Analysis & Strategy| Power BI Dashboard
 #### Dataset Info: Sample Data Set containing unbalanced Telco customer data and showing customers who left last month.
 
 - What is Customer Churning ?
@@ -7,7 +7,7 @@ Customer churn (or customer attrition) refers to the loss of customers or subscr
 A churned consumer boosts the market share of competitors and generates little to no money. If a customer leaves for a competitor, the service provider's acquisition costs would go up and purchasing a new customer cost a service provider much more than keeping an existing one.Therefore it is important to manage and learn about the reasons a customer might be churning.
 ## Introduction
 
-Customer churn is a critical challenge for businesses striving for long-term growth. This report analyzes churn patterns, identifies key risk factors, and presents strategic recommendations. The goal is to provide actionable insights for the Marketing and Customer Helpline teams to enhance customer retention.
+Customer churn is a key driver of revenue loss in the telecom industry. This analysis identifies churn risk factors and recommends data-driven strategies to improve retention. Using Power BI, we provide actionable insights to optimize customer engagement and maximize lifetime value (LTV).
 
 ## Data Cleaning
 1. Create a copy of base data.
@@ -36,7 +36,8 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 
 4. Service & Billing Factors
 
-- Customers who lack online security, tech support, online backup, and device protection, and those who opt for paperless billing, exhibit higher churn rates.
+- Customers with incomplete service bundles (e.g., missing online security, tech support) and those on paperless billing are at higher churn risk, indicating a need for strategic upselling and customer 
+  engagement initiatives.
 
 - Fibre Optics Internet service, despite being the most popular and generating the highest total charges, also experiences high churn rates.
 
@@ -96,7 +97,7 @@ Customer churn is a critical challenge for businesses striving for long-term gro
 - Conduct customer surveys to gather feedback and adjust retention strategies accordingly.
 
 ## Final Thought
-By leveraging data analytics, proactive retention strategies, and improved customer engagement, businesses can significantly reduce churn and drive long-term growth. Implementing these solutions ensures that at-risk customers receive timely interventions while fostering loyalty among long-term subscribers.
+This analysis provides a data-driven roadmap for reducing churn and increasing customer lifetime value. Implementing these retention strategies can lead to measurable revenue growth and improved customer satisfaction. Explore the dashboard for deeper insights!"
 
 
 #### Feel free to explore the project and share your feedback!
